@@ -1,4 +1,4 @@
-# Quotes generator and Twitter bot
+# Quotes generator and [Twitter](https://twitter.com/DeepInspiratio1) bot
 
 OPENAI generated a lot of talk when they revealed they managed to train a  [*"large-scale unsupervised language model which generates coherent paragraphs of text, achieves state-of-the-art performance on many language modeling benchmarks, and performs rudimentary reading comprehension, machine translation, question answering, and summarization — all without task-specific training."*](https://blog.openai.com/better-language-models/).   
 They annouced they would not release the dataset, code or the model weights, releasing this information has been a common practice, because *"concerns about large language models being used to generate deceptive, biased, or abusive language at scale"*. I don't agree with the excuse but its true that the model managed to create coeherent text, this was one of the first time i saw a language model managing to do it.     
