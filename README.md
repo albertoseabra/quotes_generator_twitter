@@ -19,6 +19,7 @@ I manually select the best quotes and they are published to twitter you can see 
 - tried again to generate text with this new dataset and after some failures it started to make some sense, [clean version](quotes_generator_clean_model.ipynb). it created quotes like  *be strong enough to bear the lessons that come if you learn to love yourself*
 - [A notebook](generate_save_quotes.ipynb) loads the model, generates quotes giving a seed and saves them to files
 - The best quotes are selected by me manually, in the future, with enough data, will build a NN to deal with this
-- Finally i build a [script](twitter_bot.py) that gets a quote from the selected ones and publishes it automatically to twitter
+- Finally i built a [script](twitter_bot.py) that gets a quote from the selected ones and publishes it automatically to twitter
+- Upload it and set a task to run automatically every day to post a tweet
 
 It was an interesting project, will work on improving the quality of the generated text
